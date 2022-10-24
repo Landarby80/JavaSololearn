@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSololearn.iml" filepath="$PROJECT_DIR$/.idea/JavaSololearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoanCalculator/LoanCalculator.iml" filepath="$PROJECT_DIR$/LoanCalculator/LoanCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseAString/ReverseAString.iml" filepath="$PROJECT_DIR$/ReverseAString/ReverseAString.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeConverter/TimeConverter.iml" filepath="$PROJECT_DIR$/TimeConverter/TimeConverter.iml" />
     </modules>
   </component>
